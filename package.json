@@ -1,0 +1,8 @@
+{
+  "name": "json-homework",
+  "version": "1.0.0",
+  "description": "Сериализация, десериализация и валидация данных JSON",
+  "main": "index.js",
+  "scripts": { "start": "node index.js", "basic": "node todo.js" },
+  "license": "MIT"
+}
